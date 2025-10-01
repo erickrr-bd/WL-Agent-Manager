@@ -1,4 +1,4 @@
-# Tekium-Winlogbeat-Update-Script v1.4.1
+# WL-Agent-Manager v1.5
 
 Winlogbeat reads from one or more event logs using Windows APIs, filters the events based on user-configured criteria, then sends the event data to the configured outputs (Elasticsearch or Logstash).
 
@@ -89,14 +89,3 @@ Hosts File: hosts.txt
 
 Execution end date: 04/27/2024 12:45:54
 ```
-
-# Commercial Support
-![Tekium](https://github.com/unmanarc/uAuditAnalyzer2/blob/master/art/tekium_slogo.jpeg)
-
-Tekium is a cybersecurity company specialized in red team and blue team activities based in Mexico, it has clients in the financial, telecom and retail sectors.
-
-Tekium is an active sponsor of the project, and provides commercial support in the case you need it.
-
-For integration with other platforms such as the Elastic stack, SIEMs, managed security providers in-house solutions, or for any other requests for extending current functionality that you wish to see included in future versions, please contact us: info at tekium.mx
-
-For more information, go to: https://www.tekium.mx/
